@@ -31,7 +31,7 @@ public class App extends Application {
         System.out.println("Ciao");
         timer.start();
 
-        // Commento
+        // Commento migliorato
         stage.setScene(new Scene(root, 800, 600));
         stage.setTitle("Tower defense");
         stage.show();
